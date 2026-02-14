@@ -1,0 +1,33 @@
+{
+  "name": "node-exampl",
+  "version": "1.0.0",
+  "description": "es el proyecto es de examen",
+  "keywords": [
+    "mateo",
+    "node",
+    "mm",
+    "proyecto"
+  ],
+  "homepage": "https://github.com/wmotass1255/node-exampl#readme",
+  "bugs": {
+    "url": "https://github.com/wmotass1255/node-exampl/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmotass1255/node-exampl.git"
+  },
+  "license": "ISC",
+  "author": "matotita12",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.0",
+    "globals": "^17.3.0"
+  }
+}
